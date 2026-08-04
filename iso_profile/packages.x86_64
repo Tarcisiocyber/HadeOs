@@ -27,7 +27,7 @@ wireless_tools
 
 # Firmwares para placas Wi-Fi (Intel, Realtek, Broadcom, etc.)
 linux-firmware
-broadcom-wl-dkms# Opcional, para placas Broadcom
+# Opcional, para placas Broadcom
 
 
 
