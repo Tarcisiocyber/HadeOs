@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Instalar HadeOS
+GenericName=Instalador do Sistema
+Comment=Instale o HadeOS permanentemente no seu disco
+Exec=sudo calamares
+Icon=calamares
+Terminal=false
+Categories=System;
