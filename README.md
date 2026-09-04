@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)](https://github.com/Tarcisiocyber/HadeOs)
 [![Base](https://img.shields.io/badge/Base-CachyOS-blue?style=for-the-badge)](https://cachyos.org/)
 [![Kernel](https://img.shields.io/badge/Kernel-Linux-yellow?style=for-the-badge)](https://www.kernel.org/)
-[![Desktop](https://img.shields.io/badge/Desktop-MATE-green?style=for-the-badge)](https://mate-desktop.org/)
+[![Desktop](https://img.shields.io/badge/Desktop-KDE%20Plasma-blueviolet?style=for-the-badge)](https://kde.org/)
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge)](LICENSE)
 
 **A modern Linux distribution focused on Cybersecurity**
@@ -28,6 +28,7 @@ The name *Hades*, inspired by the Greek god of the underworld, represents streng
 - **Security-Focused**: Pre-configured with essential cybersecurity tools and hardened defaults
 - **Developer-Friendly**: Complete development toolchain and package management via Pacman
 - **Rolling Release**: Always up-to-date with the latest packages and improvements
+- **Modern UI**: KDE Plasma desktop environment with powerful customization options
 - **Highly Customizable**: Arch-based philosophy—you control every aspect of your system
 
 ---
@@ -38,7 +39,7 @@ The name *Hades*, inspired by the Greek god of the underworld, represents streng
 - ✅ **Pacman Package Manager**: Fast and efficient dependency resolution
 - ✅ **Rolling Release Model**: Continuous updates without major version jumps
 - ✅ **Optimized Linux Kernel**: Performance and security enhancements
-- ✅ **MATE Desktop Environment**: Lightweight, intuitive graphical interface
+- ✅ **KDE Plasma Desktop**: Modern, powerful, and highly customizable graphical interface
 - ✅ **Security Tools**: Pre-configured with essential cybersecurity utilities
 - ✅ **Automation Scripts**: Streamline common tasks and deployments
 - ✅ **Extensible Architecture**: Ready for custom tools and exclusive features
@@ -202,7 +203,7 @@ This ensures the project remains free and open source for all users and contribu
 
 - [CachyOS](https://cachyos.org/) for the performance-optimized base
 - [Arch Linux](https://www.archlinux.org/) community and philosophy
-- [MATE Desktop](https://mate-desktop.org/) for the lightweight environment
+- [KDE Plasma](https://kde.org/) for the powerful desktop environment
 - All contributors and early adopters
 
 ---
